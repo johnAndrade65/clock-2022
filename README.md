@@ -1,1 +1,2 @@
-# Clock with html, css and javascript;
+# Clock
+<!-- Clock using html, css and javascript -->
